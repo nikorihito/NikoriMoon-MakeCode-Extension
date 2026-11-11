@@ -1,12 +1,12 @@
 {
   "name": "nikorimoon-agent-materials",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Nikori Moon MakeCode extension for Minecraft Education.",
   "dependencies": {
     "core": "*",
     "minecraft": "*"
   },
   "files": [
-    "main.ts"
+    "custom.ts"
   ]
 }
